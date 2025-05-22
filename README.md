@@ -13,9 +13,9 @@ Following are the solutions obtained on solving the Bondi equation for polytropi
 
 ### Results
 
-<img src = "bondi_e=0.1.png" width = "462" height = "380">  &nbsp;&nbsp;&nbsp; <img src = "bondi_e=0.05.png" width = "462" height = "380">
+<img src = "bondi_e=0.1.png" width = "277" height = "228">  &nbsp;&nbsp;&nbsp; <img src = "bondi_e=0.05.png" width = "277" height = "228">
 
-<img src = "bondi_e=0.01.png" width = "462" height = "380">  &nbsp;&nbsp;&nbsp; <img src = "bondi_e=0.001.png" width = "462" height = "380">
+<img src = "bondi_e=0.01.png" width = "277" height = "228">  &nbsp;&nbsp;&nbsp; <img src = "bondi_e=0.001.png" width = "277" height = "228">
 
 1. The solid lines show physically realistic transonic flows which extend from the surface of the star to infinity. The curves are plotted for a constant accretion rate $\dot{\mathcal{M}}$.
 2. The orange solid line represents the Bondi accretion flow. It implies that the velocity $v$ is subsonic at infinity and supersonic on the surface of the star.
